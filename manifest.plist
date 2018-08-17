@@ -33,7 +33,7 @@
                 <key>bundle-version</key>
                 <string>2.5.0</string>
                 <key>kind</key>
-                <string>Game</string>
+                <string>software</string>
                 <key>title</key>
                 <string>LostSoul</string>
             </dict>
